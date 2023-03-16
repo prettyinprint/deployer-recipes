@@ -1,0 +1,16 @@
+{
+  "name": "prettyinprint/deployer-recipes",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Pretty in Print",
+      "email": "info@pip.de",
+      "homepage": "https://pip.de",
+      "role": "Developer"
+    }
+  ],
+  "require-dev": {
+    "deployer/deployer": "^7.0"
+  }
+}

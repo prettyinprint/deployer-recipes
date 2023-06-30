@@ -19,7 +19,6 @@ set('exclude', [
   '/var',
   '/vendor',
   '/assets',
-  '/files',
   '/system',
   '/{{public_path}}/bundles',
   '/{{public_path}}/assets',
